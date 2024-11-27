@@ -616,3 +616,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 17:50:32.843] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [27Nov2024 17:50:32.844] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/eyeye/servidor_minecraft/./config/infernalmobs.cfg
 [27Nov2024 17:50:35.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[27Nov2024 17:59:41.310] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Nov2024 17:59:41.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57646] logged in with entity id 1483 at (46.476177114250724, 71.0, 146.241930663295)
+[27Nov2024 17:59:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[27Nov2024 17:59:43.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[27Nov2024 18:01:38.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[27Nov2024 18:01:38.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[27Nov2024 18:01:59.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:63945] logged in with entity id 2157 at (87.5, 71.0, 84.5)
+[27Nov2024 18:01:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[27Nov2024 18:02:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has completed the challenge [The Undead]
+[27Nov2024 18:02:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Ice and Fire]
+[27Nov2024 18:02:11.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57674] logged in with entity id 2321 at (-98.80006255640414, 70.0, 208.24016942428048)
+[27Nov2024 18:02:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[27Nov2024 18:02:15.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[27Nov2024 18:03:11.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[27Nov2024 18:04:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Sprinter
+[27Nov2024 18:04:33.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Your First Grave]
+[27Nov2024 18:04:33.703] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:04:39.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was shot by Skeleton
+[27Nov2024 18:04:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Your First Grave]
+[27Nov2024 18:04:40.094] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:05:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Here They Come]
+[27Nov2024 18:05:52.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has reached the goal [Here They Come]
+[27Nov2024 18:08:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Stone Age]
