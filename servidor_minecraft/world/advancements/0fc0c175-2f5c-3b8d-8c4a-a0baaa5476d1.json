@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-11-27 20:22:35 +0000",
       "minecraft:beach": "2024-11-27 19:31:05 +0000",
       "minecraft:dark_forest": "2024-11-27 20:10:38 +0000",
       "minecraft:river": "2024-11-27 18:11:10 +0000",
@@ -10,6 +11,7 @@
       "minecraft:forest": "2024-11-23 20:09:12 +0000",
       "minecraft:windswept_forest": "2024-11-27 20:11:23 +0000",
       "minecraft:ocean": "2024-11-27 19:32:34 +0000",
+      "minecraft:windswept_savanna": "2024-11-27 20:12:15 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-27 20:08:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-27 20:08:55 +0000",
       "minecraft:savanna": "2024-11-23 20:08:31 +0000",
@@ -314,6 +316,84 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-27 19:17:46 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-11-27 20:33:32 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 20:33:38 +0000"
     },
     "done": true
   },
