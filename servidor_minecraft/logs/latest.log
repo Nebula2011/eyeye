@@ -639,3 +639,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 18:05:17.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Here They Come]
 [27Nov2024 18:05:52.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has reached the goal [Here They Come]
 [27Nov2024 18:08:04.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Stone Age]
+[27Nov2024 18:09:30.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[27Nov2024 18:10:13.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Acquire Hardware]
+[27Nov2024 18:10:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was shot by Supreme Bonescaller
+[27Nov2024 18:10:30.575] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:10:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Bone Imp
+[27Nov2024 18:10:36.835] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:16:32.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Getting an Upgrade]
+[27Nov2024 18:17:14.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Sweet Dreams]
+[27Nov2024 18:17:25.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[27Nov2024 18:17:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game

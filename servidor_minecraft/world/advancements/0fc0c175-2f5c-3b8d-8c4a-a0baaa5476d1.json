@@ -1,9 +1,11 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-11-27 18:11:10 +0000",
       "minecraft:stony_shore": "2024-11-23 20:08:15 +0000",
       "minecraft:forest": "2024-11-23 20:09:12 +0000",
-      "minecraft:savanna": "2024-11-23 20:08:31 +0000"
+      "minecraft:savanna": "2024-11-23 20:08:31 +0000",
+      "minecraft:plains": "2024-11-27 18:06:55 +0000"
     },
     "done": false
   },
@@ -196,6 +198,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-11-27 18:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-27 18:10:13 +0000"
     },
     "done": true
   },
