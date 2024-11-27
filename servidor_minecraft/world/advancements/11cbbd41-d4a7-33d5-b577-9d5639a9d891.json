@@ -294,5 +294,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-27 19:52:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-11-27 19:54:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

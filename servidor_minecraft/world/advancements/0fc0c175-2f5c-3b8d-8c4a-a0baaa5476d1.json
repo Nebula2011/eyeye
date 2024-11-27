@@ -320,13 +320,20 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-11-27 19:47:37 +0000"
+      "minecraft:cow": "2024-11-27 19:47:37 +0000",
+      "minecraft:sheep": "2024-11-27 19:56:18 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-11-27 19:47:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2024-11-27 19:54:06 +0000"
     },
     "done": true
   },
