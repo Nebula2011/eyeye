@@ -736,3 +736,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 18:47:49.173] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [27Nov2024 18:49:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert drowned
 [27Nov2024 18:49:57.365] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:50:01.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[27Nov2024 18:50:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[27Nov2024 18:50:51.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e32810d[id=<null>,name=wallace2020,properties={},legacy=false] (/100.113.22.47:64385) lost connection: Disconnected
+[27Nov2024 18:51:20.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@335dff9a[id=<null>,name=wallace2020,properties={},legacy=false] (/100.113.22.47:64402) lost connection: Disconnected
+[27Nov2024 18:51:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Stray
+[27Nov2024 18:51:50.291] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:51:50.673] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3666f248[id=<null>,name=wallace2020,properties={},legacy=false] (/100.113.22.47:64424) lost connection: Disconnected
+[27Nov2024 18:53:28.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:64560] logged in with entity id 19491 at (370.4854547927505, 129.0, 343.41461937545273)
+[27Nov2024 18:53:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[27Nov2024 18:54:32.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Magic Writing]
+[27Nov2024 18:54:57.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:54:57.683] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:55:24.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Great minds think alike]
+[27Nov2024 18:56:44.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 hit the ground too hard
+[27Nov2024 18:56:45.001] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:58:53.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Magic Writing]
+[27Nov2024 18:59:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Not Today, Thank You]
+[27Nov2024 19:00:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Diamonds!]
+[27Nov2024 19:00:14.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Bone Imp
+[27Nov2024 19:00:14.534] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved

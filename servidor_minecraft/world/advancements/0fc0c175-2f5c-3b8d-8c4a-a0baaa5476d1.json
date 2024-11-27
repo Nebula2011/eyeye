@@ -229,7 +229,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-11-27 18:37:38 +0000",
-      "minecraft:stray": "2024-11-27 18:36:15 +0000"
+      "minecraft:stray": "2024-11-27 18:36:15 +0000",
+      "minecraft:zombie": "2024-11-27 18:46:40 +0000"
     },
     "done": false
   },
@@ -254,6 +255,24 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-27 18:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-11-27 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 18:55:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-11-27 18:54:32 +0000"
     },
     "done": true
   },
