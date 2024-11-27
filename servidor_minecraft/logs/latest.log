@@ -704,3 +704,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 18:39:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
 [27Nov2024 18:39:35.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57934] logged in with entity id 15078 at (279.44577284575735, 111.0, 345.00127603807414)
 [27Nov2024 18:39:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[27Nov2024 18:39:42.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[27Nov2024 18:40:36.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was shot by Stray
+[27Nov2024 18:40:36.898] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:41:20.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Spider
+[27Nov2024 18:41:20.933] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:42:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:42:10.570] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:42:38.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[27Nov2024 18:42:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[27Nov2024 18:42:40.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[27Nov2024 18:42:40.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[27Nov2024 18:42:52.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57976] logged in with entity id 16217 at (373.08582787762566, 147.1875, 330.8691823769907)
+[27Nov2024 18:42:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[27Nov2024 18:42:57.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:64310] logged in with entity id 16399 at (289.39560192719205, 111.0, 331.2432361428751)
+[27Nov2024 18:42:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[27Nov2024 18:43:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:43:48.827] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:44:01.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert fell from a high place
+[27Nov2024 18:44:01.240] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:45:01.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:45:01.072] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:45:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert drowned whilst trying to escape Vex
+[27Nov2024 18:45:26.124] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:46:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Suit Up]
+[27Nov2024 18:46:43.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert fell from a high place
+[27Nov2024 18:46:43.275] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:46:44.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:46:44.937] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:47:49.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert withered away whilst fighting Stray
+[27Nov2024 18:47:49.173] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:49:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert drowned
+[27Nov2024 18:49:57.365] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
