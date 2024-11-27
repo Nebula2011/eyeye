@@ -673,3 +673,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 18:28:26.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
 [27Nov2024 18:28:50.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:64182] logged in with entity id 11620 at (293.1287842419975, 111.0, 327.5919277168268)
 [27Nov2024 18:28:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[27Nov2024 18:29:37.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Vex
+[27Nov2024 18:29:37.392] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:29:59.128] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Nov2024 18:29:59.129] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Nov2024 18:31:34.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Vex
+[27Nov2024 18:31:34.734] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:32:04.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:32:04.586] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:33:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Baby Skeleton
+[27Nov2024 18:33:24.087] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:34:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Vex
+[27Nov2024 18:34:00.387] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 18:35:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert fell from a high place
+[27Nov2024 18:35:35.194] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:36:15.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Monster Hunter]
+[27Nov2024 18:36:16.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Knowledge of Death]
+[27Nov2024 18:36:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Chain Death]
+[27Nov2024 18:36:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Spider
+[27Nov2024 18:36:16.937] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:38:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by wallace2020
+[27Nov2024 18:38:37.953] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 18:39:08.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Isn't It Iron Pick]
+[27Nov2024 18:39:11.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[27Nov2024 18:39:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[27Nov2024 18:39:11.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Sweet Dreams]
+[27Nov2024 18:39:18.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
+[27Nov2024 18:39:18.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[27Nov2024 18:39:35.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:64269] logged in with entity id 15077 at (281.5, 111.0, 343.5)
+[27Nov2024 18:39:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[27Nov2024 18:39:35.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:57934] logged in with entity id 15078 at (279.44577284575735, 111.0, 345.00127603807414)
+[27Nov2024 18:39:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
