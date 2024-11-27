@@ -782,3 +782,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 19:08:11.715] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [27Nov2024 19:08:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was squashed by a falling anvil
 [27Nov2024 19:08:41.581] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 19:10:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Ashes 'n Bones]
+[27Nov2024 19:11:37.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was shot by Supreme Bonescaller
+[27Nov2024 19:11:37.144] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 19:11:45.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was shot by Supreme Bonescaller
+[27Nov2024 19:11:45.776] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 19:12:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was shot by Supreme Bonescaller
+[27Nov2024 19:12:59.421] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 19:14:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Corpse Fly
+[27Nov2024 19:14:46.620] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[27Nov2024 19:17:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Diamonds!]

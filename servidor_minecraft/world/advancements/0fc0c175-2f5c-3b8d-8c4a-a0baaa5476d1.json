@@ -294,5 +294,17 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-27 19:17:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 19:10:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
