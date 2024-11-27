@@ -98,6 +98,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-11-27 18:11:06 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-27 19:30:41 +0000",
       "minecraft:stony_shore": "2024-11-27 18:02:00 +0000",
       "minecraft:forest": "2024-11-27 18:07:13 +0000",
       "minecraft:savanna": "2024-11-27 18:04:01 +0000",
@@ -263,6 +264,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-27 19:00:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-11-27 19:23:57 +0000"
     },
     "done": true
   },

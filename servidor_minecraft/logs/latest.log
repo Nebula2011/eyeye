@@ -792,3 +792,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Nov2024 19:14:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Corpse Fly
 [27Nov2024 19:14:46.620] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
 [27Nov2024 19:17:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Diamonds!]
+[27Nov2024 19:20:52.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Sprinter
+[27Nov2024 19:20:52.779] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 19:21:53.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was slain by Zombie
+[27Nov2024 19:21:53.584] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[27Nov2024 19:21:57.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[27Nov2024 19:21:57.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[27Nov2024 19:22:37.161] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:58222] logged in with entity id 27476 at (370.5, 125.0625, 339.5)
+[27Nov2024 19:22:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[27Nov2024 19:23:57.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Ashes 'n Bones]
