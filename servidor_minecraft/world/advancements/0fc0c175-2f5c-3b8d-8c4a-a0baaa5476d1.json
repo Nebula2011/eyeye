@@ -1,10 +1,12 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-11-27 19:31:05 +0000",
       "minecraft:river": "2024-11-27 18:11:10 +0000",
       "minecraft:lukewarm_ocean": "2024-11-27 19:30:42 +0000",
       "minecraft:stony_shore": "2024-11-23 20:08:15 +0000",
       "minecraft:forest": "2024-11-23 20:09:12 +0000",
+      "minecraft:ocean": "2024-11-27 19:32:34 +0000",
       "minecraft:savanna": "2024-11-23 20:08:31 +0000",
       "minecraft:plains": "2024-11-27 18:06:55 +0000"
     },
@@ -307,6 +309,30 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-11-27 19:17:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-11-27 19:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-11-27 19:47:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-27 19:47:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-11-27 19:47:37 +0000"
     },
     "done": true
   },

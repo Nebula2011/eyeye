@@ -97,10 +97,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-11-27 19:31:04 +0000",
       "minecraft:river": "2024-11-27 18:11:06 +0000",
       "minecraft:lukewarm_ocean": "2024-11-27 19:30:41 +0000",
       "minecraft:stony_shore": "2024-11-27 18:02:00 +0000",
       "minecraft:forest": "2024-11-27 18:07:13 +0000",
+      "minecraft:ocean": "2024-11-27 19:32:35 +0000",
       "minecraft:savanna": "2024-11-27 18:04:01 +0000",
       "minecraft:plains": "2024-11-27 18:06:53 +0000"
     },
@@ -225,6 +227,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-27 19:33:58 +0000",
       "minecraft:stray": "2024-11-27 18:43:41 +0000",
       "minecraft:vex": "2024-11-27 18:47:03 +0000",
       "minecraft:zombie": "2024-11-27 18:24:26 +0000"
@@ -270,6 +273,24 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-11-27 19:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-11-27 19:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-27 19:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-27 19:43:19 +0000"
     },
     "done": true
   },
