@@ -1,6 +1,8 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-30 17:04:06 +0000",
+      "minecraft:cherry_grove": "2024-11-30 17:06:19 +0000",
       "minecraft:birch_forest": "2024-11-27 20:22:35 +0000",
       "minecraft:beach": "2024-11-27 19:31:05 +0000",
       "minecraft:dark_forest": "2024-11-27 20:10:38 +0000",
@@ -408,6 +410,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2024-11-30 16:09:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-11-30 17:05:42 +0000"
     },
     "done": true
   },

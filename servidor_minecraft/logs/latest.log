@@ -869,3 +869,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 16:58:21.883] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
 [30Nov2024 17:01:39.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 lost connection: Disconnected
 [30Nov2024 17:01:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 left the game
+[30Nov2024 17:02:03.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wallace2020[/100.113.22.47:62882] logged in with entity id 36971 at (1127.300000011921, 134.0, -2175.512499988079)
+[30Nov2024 17:02:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 joined the game
+[30Nov2024 17:02:46.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Husk
+[30Nov2024 17:02:46.800] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:04:12.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Husk
+[30Nov2024 17:04:12.452] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:05:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has reached the goal [Bone Crusher]
+[30Nov2024 17:05:43.199] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 17:09:37.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Light as a Rabbit]
+[30Nov2024 17:09:43.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Light as a Rabbit]
+[30Nov2024 17:10:33.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wallace2020 moved too quickly! -4.394774696840386,-2.2032643993313172,-8.89963675854142
+[30Nov2024 17:10:33.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert moved too quickly! -4.440940982949087,-1.7508129212553172,-9.072000902480795
+[30Nov2024 17:10:33.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[30Nov2024 17:12:22.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
