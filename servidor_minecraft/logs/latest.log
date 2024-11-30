@@ -883,3 +883,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 17:10:33.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert moved too quickly! -4.440940982949087,-1.7508129212553172,-9.072000902480795
 [30Nov2024 17:10:33.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
 [30Nov2024 17:12:22.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[30Nov2024 17:12:42.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4965ms or 99 ticks behind
+[30Nov2024 17:12:43.918] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[30Nov2024 17:12:43.918] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[30Nov2024 17:12:43.919] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[30Nov2024 17:13:04.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7470ms or 149 ticks behind
+[30Nov2024 17:13:11.097] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[30Nov2024 17:13:50.530] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[30Nov2024 17:14:11.851] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[30Nov2024 17:14:13.583] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[30Nov2024 17:14:13.585] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[30Nov2024 17:14:19.796] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[30Nov2024 17:14:19.797] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[30Nov2024 17:14:19.798] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[30Nov2024 17:14:19.798] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[30Nov2024 17:14:19.798] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[30Nov2024 17:14:19.799] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[30Nov2024 17:14:19.807] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[30Nov2024 17:14:19.807] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[30Nov2024 17:14:19.808] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[30Nov2024 17:14:19.808] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[30Nov2024 17:14:19.808] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[30Nov2024 17:14:19.809] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[30Nov2024 17:14:19.809] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[30Nov2024 17:14:19.810] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[30Nov2024 17:14:21.086] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[30Nov2024 17:14:21.086] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[30Nov2024 17:14:38.205] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[30Nov2024 17:14:38.206] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[30Nov2024 17:14:38.207] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[30Nov2024 17:14:38.208] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[30Nov2024 17:14:38.208] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[30Nov2024 17:14:38.208] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[30Nov2024 17:14:38.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[30Nov2024 17:14:38.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[30Nov2024 17:14:38.209] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[30Nov2024 17:14:39.394] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 17:14:39.394] [Worker-Main-29/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Nov2024 17:15:32.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[30Nov2024 17:15:49.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[30Nov2024 17:16:06.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[30Nov2024 17:16:24.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[30Nov2024 17:17:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was slain by Nightmare Stalker
+[30Nov2024 17:17:01.857] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:17:06.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[30Nov2024 17:17:31.272] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 17:17:31.274] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 17:17:31.321] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 17:17:31.322] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[30Nov2024 17:17:35.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14857ms or 297 ticks behind
+[30Nov2024 17:18:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert has made the advancement [Flying Forwards]
+[30Nov2024 17:19:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 fell from a high place
+[30Nov2024 17:19:32.470] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:19:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was shot by Skeleton
+[30Nov2024 17:19:43.532] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[30Nov2024 17:20:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was shot by Skeleton
+[30Nov2024 17:20:43.265] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:21:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was shot by Skeleton
+[30Nov2024 17:21:28.845] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[30Nov2024 17:21:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wallace2020> W
+[30Nov2024 17:21:50.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was shot by Skeleton
+[30Nov2024 17:21:50.319] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:22:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was killed trying to hurt Skeleton
+[30Nov2024 17:22:10.275] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[30Nov2024 17:22:46.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 was killed trying to hurt Skeleton
+[30Nov2024 17:22:46.052] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
+[30Nov2024 17:22:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert was burnt to a crisp whilst fighting robert
+[30Nov2024 17:22:49.536] [Server thread/INFO] [tombstone/]: The player robert has successfully been saved
+[30Nov2024 17:23:21.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
