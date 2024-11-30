@@ -728,3 +728,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Nov2024 16:29:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 fell from a high place
 [30Nov2024 16:29:17.012] [Server thread/INFO] [tombstone/]: The player wallace2020 has successfully been saved
 [30Nov2024 16:29:21.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[30Nov2024 16:29:41.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5493ms or 109 ticks behind
+[30Nov2024 16:30:06.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9116ms or 182 ticks behind
+[30Nov2024 16:30:26.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5738ms or 114 ticks behind
+[30Nov2024 16:30:41.170] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25625, l='ServerLevel[world]', x=167.50, y=70.00, z=-366.50]
+[30Nov2024 16:30:44.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2713ms or 54 ticks behind
+[30Nov2024 16:31:05.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5577ms or 111 ticks behind
+[30Nov2024 16:31:17.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/26393, l='ServerLevel[world]', x=205.50, y=71.00, z=-324.50]
+[30Nov2024 16:31:29.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9675ms or 193 ticks behind
+[30Nov2024 16:31:44.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [The Most Useful Key]
+[30Nov2024 16:31:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has made the advancement [Quickly Applied]
+[30Nov2024 16:31:52.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wallace2020 has reached the goal [A Fast Comeback]
+[30Nov2024 16:31:56.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12344ms or 246 ticks behind
+[30Nov2024 16:32:17.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
+[30Nov2024 16:32:48.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Nov2024 16:34:09.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[30Nov2024 16:34:28.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
+[30Nov2024 16:36:50.525] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Nov2024 16:36:50.527] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Nov2024 16:36:50.528] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[30Nov2024 16:36:50.533] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Nov2024 16:37:46.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: robert lost connection: Disconnected
+[30Nov2024 16:37:46.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert left the game
+[30Nov2024 16:38:02.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: robert[/100.117.211.19:53308] logged in with entity id 28795 at (1050.5, 64.0, -1807.5)
+[30Nov2024 16:38:02.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: robert joined the game
+[30Nov2024 16:38:37.501] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[30Nov2024 16:38:37.503] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[30Nov2024 16:38:39.970] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[30Nov2024 16:38:39.971] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[30Nov2024 16:38:40.405] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[30Nov2024 16:38:40.406] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[30Nov2024 16:38:48.992] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[30Nov2024 16:38:48.996] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[30Nov2024 16:38:48.997] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[30Nov2024 16:38:48.998] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[30Nov2024 16:38:49.360] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[30Nov2024 16:38:49.364] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[30Nov2024 16:38:49.369] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[30Nov2024 16:38:51.013] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[30Nov2024 16:38:51.013] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[30Nov2024 16:39:09.529] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=26, z=-612}
+[30Nov2024 16:39:09.531] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=27, z=-612}
+[30Nov2024 16:39:09.531] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=28, z=-612}
+[30Nov2024 16:39:09.531] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=26, z=-610}
+[30Nov2024 16:39:09.532] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=27, z=-610}
+[30Nov2024 16:39:09.532] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=28, z=-610}
+[30Nov2024 16:39:09.532] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=27, z=-614}
+[30Nov2024 16:39:09.533] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=26, z=-614}
+[30Nov2024 16:39:09.533] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=28, z=-614}
+[30Nov2024 16:39:09.533] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=26, z=-614}
+[30Nov2024 16:39:09.534] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=27, z=-614}
+[30Nov2024 16:39:09.538] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=28, z=-614}
+[30Nov2024 16:39:09.539] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=29, z=-611}
+[30Nov2024 16:39:09.540] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-610}
+[30Nov2024 16:39:09.540] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=27, z=-610}
+[30Nov2024 16:39:09.541] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=28, z=-610}
+[30Nov2024 16:39:09.541] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-612}
+[30Nov2024 16:39:09.542] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=27, z=-612}
+[30Nov2024 16:39:09.542] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=28, z=-612}
+[30Nov2024 16:39:09.543] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=26, z=-608}
+[30Nov2024 16:39:09.547] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=27, z=-608}
+[30Nov2024 16:39:09.548] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=28, z=-608}
+[30Nov2024 16:39:09.549] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=26, z=-608}
+[30Nov2024 16:39:09.549] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=27, z=-608}
+[30Nov2024 16:39:09.550] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=28, z=-608}
+[30Nov2024 16:39:23.866] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[30Nov2024 16:39:23.876] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[30Nov2024 16:39:29.354] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[30Nov2024 16:39:47.006] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[30Nov2024 16:39:58.806] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[30Nov2024 16:39:58.814] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[30Nov2024 16:39:59.057] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[30Nov2024 16:39:59.216] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Nov2024 16:39:59.218] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Nov2024 16:39:59.218] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[30Nov2024 16:39:59.219] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Nov2024 16:40:05.425] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[30Nov2024 16:40:05.425] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[30Nov2024 16:40:13.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[30Nov2024 16:40:15.092] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[30Nov2024 16:40:15.092] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[30Nov2024 16:40:25.155] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[30Nov2024 16:40:25.460] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[30Nov2024 16:40:25.465] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[30Nov2024 16:40:25.473] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
