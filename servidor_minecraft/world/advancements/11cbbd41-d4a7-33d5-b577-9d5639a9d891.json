@@ -100,6 +100,8 @@
       "minecraft:birch_forest": "2024-11-27 20:22:30 +0000",
       "minecraft:beach": "2024-11-27 19:31:04 +0000",
       "minecraft:dark_forest": "2024-11-27 20:10:37 +0000",
+      "minecraft:stony_peaks": "2024-11-30 16:15:25 +0000",
+      "minecraft:sparse_jungle": "2024-11-30 16:03:07 +0000",
       "minecraft:river": "2024-11-27 18:11:06 +0000",
       "minecraft:lukewarm_ocean": "2024-11-27 19:30:41 +0000",
       "minecraft:stony_shore": "2024-11-27 18:02:00 +0000",
@@ -237,6 +239,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-27 19:33:58 +0000",
+      "minecraft:vindicator": "2024-11-30 15:58:33 +0000",
       "minecraft:stray": "2024-11-27 18:43:41 +0000",
       "minecraft:vex": "2024-11-27 18:47:03 +0000",
       "minecraft:zombie": "2024-11-27 18:24:26 +0000"
@@ -330,6 +333,18 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-11-27 20:30:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-11-30 15:58:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-30 15:59:58 +0000"
     },
     "done": true
   },
